@@ -1,0 +1,15 @@
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\bin\Debug\net8.0\objektum.exe
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\bin\Debug\net8.0\objektum.deps.json
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\bin\Debug\net8.0\objektum.runtimeconfig.json
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\bin\Debug\net8.0\objektum.dll
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\bin\Debug\net8.0\objektum.pdb
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.AssemblyInfoInputs.cache
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.AssemblyInfo.cs
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.csproj.CoreCompileInputs.cache
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.sourcelink.json
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.dll
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\refint\objektum.dll
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.pdb
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\objektum.genruntimeconfig.cache
+H:\progi 2024-2025\asztali2024-2045\OB\objektum\objektum\obj\Debug\net8.0\ref\objektum.dll

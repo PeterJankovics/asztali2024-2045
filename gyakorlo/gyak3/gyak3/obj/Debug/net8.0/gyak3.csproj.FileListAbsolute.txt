@@ -1,0 +1,14 @@
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\bin\Debug\net8.0\gyak3.exe
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\bin\Debug\net8.0\gyak3.deps.json
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\bin\Debug\net8.0\gyak3.runtimeconfig.json
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\bin\Debug\net8.0\gyak3.dll
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\bin\Debug\net8.0\gyak3.pdb
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\gyak3.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\gyak3.AssemblyInfoInputs.cache
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\gyak3.AssemblyInfo.cs
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\gyak3.csproj.CoreCompileInputs.cache
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\gyak3.dll
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\refint\gyak3.dll
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\gyak3.pdb
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\gyak3.genruntimeconfig.cache
+H:\progi 2024-2025\gyakorlo\gyak3\gyak3\obj\Debug\net8.0\ref\gyak3.dll

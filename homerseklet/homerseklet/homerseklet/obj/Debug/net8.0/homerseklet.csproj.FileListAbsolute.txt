@@ -1,0 +1,15 @@
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.exe
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.deps.json
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.runtimeconfig.json
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.dll
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.pdb
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.AssemblyInfoInputs.cache
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.AssemblyInfo.cs
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.csproj.CoreCompileInputs.cache
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.sourcelink.json
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.dll
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\refint\homerseklet.dll
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.pdb
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.genruntimeconfig.cache
+H:\progi 2024-2025\asztali2024-2045\homerseklet\homerseklet\homerseklet\obj\Debug\net8.0\ref\homerseklet.dll

@@ -1,0 +1,15 @@
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\bin\Debug\net8.0\gyak6.exe
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\bin\Debug\net8.0\gyak6.deps.json
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\bin\Debug\net8.0\gyak6.runtimeconfig.json
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\bin\Debug\net8.0\gyak6.dll
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\bin\Debug\net8.0\gyak6.pdb
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.AssemblyInfoInputs.cache
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.AssemblyInfo.cs
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.csproj.CoreCompileInputs.cache
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.sourcelink.json
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.dll
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\refint\gyak6.dll
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.pdb
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\gyak6.genruntimeconfig.cache
+H:\progi 2024-2025\asztali2024-2045\gyakorlo\gyak6\gyak6\obj\Debug\net8.0\ref\gyak6.dll

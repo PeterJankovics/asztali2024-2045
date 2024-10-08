@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 2024-2025\\asztali2024-2045\\OB\\objektum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{069FF471-99A8-4B4B-9F96-144AAE027A06}|objektum\\objektum.csproj|h:\\progi 2024-2025\\asztali2024-2045\\ob\\objektum\\objektum\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FF471-99A8-4B4B-9F96-144AAE027A06}|objektum\\objektum.csproj|solutionrelative:objektum\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069FF471-99A8-4B4B-9F96-144AAE027A06}|objektum\\objektum.csproj|h:\\progi 2024-2025\\asztali2024-2045\\ob\\objektum\\objektum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FF471-99A8-4B4B-9F96-144AAE027A06}|objektum\\objektum.csproj|solutionrelative:objektum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kutya.cs",
+              "DocumentMoniker": "H:\\progi 2024-2025\\asztali2024-2045\\OB\\objektum\\objektum\\kutya.cs",
+              "RelativeDocumentMoniker": "objektum\\kutya.cs",
+              "ToolTip": "H:\\progi 2024-2025\\asztali2024-2045\\OB\\objektum\\objektum\\kutya.cs",
+              "RelativeToolTip": "objektum\\kutya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:44:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\progi 2024-2025\\asztali2024-2045\\OB\\objektum\\objektum\\Program.cs",
+              "RelativeDocumentMoniker": "objektum\\Program.cs",
+              "ToolTip": "H:\\progi 2024-2025\\asztali2024-2045\\OB\\objektum\\objektum\\Program.cs",
+              "RelativeToolTip": "objektum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:43:32.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 2024-2025\\asztali2024-2045\\gyakorlo\\gyak5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D3760D-2BBD-488F-BFA2-F20955D8173B}|gyak5\\gyak5.csproj|h:\\progi 2024-2025\\asztali2024-2045\\gyakorlo\\gyak5\\gyak5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D3760D-2BBD-488F-BFA2-F20955D8173B}|gyak5\\gyak5.csproj|solutionrelative:gyak5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\progi 2024-2025\\asztali2024-2045\\gyakorlo\\gyak5\\gyak5\\Program.cs",
+              "RelativeDocumentMoniker": "gyak5\\Program.cs",
+              "ToolTip": "H:\\progi 2024-2025\\asztali2024-2045\\gyakorlo\\gyak5\\gyak5\\Program.cs",
+              "RelativeToolTip": "gyak5\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:47:35.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
