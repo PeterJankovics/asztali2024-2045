@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "objektum2", "objektum2\objektum2.csproj", "{B2A7CF40-7161-4E9C-A3E2-092BF86EA71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A7CF40-7161-4E9C-A3E2-092BF86EA71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A7CF40-7161-4E9C-A3E2-092BF86EA71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A7CF40-7161-4E9C-A3E2-092BF86EA71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A7CF40-7161-4E9C-A3E2-092BF86EA71A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF1BFE5D-1F80-4749-BAFA-5A404A16046F}
+	EndGlobalSection
+EndGlobal

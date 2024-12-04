@@ -1,0 +1,5 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.1\gyak4.1\obj\Debug\net8.0\gyak4.1.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.1\gyak4.1\obj\Debug\net8.0\gyak4.1.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.1\gyak4.1\obj\Debug\net8.0\gyak4.1.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.1\gyak4.1\obj\Debug\net8.0\gyak4.1.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.1\gyak4.1\obj\Debug\net8.0\gyak4.1.sourcelink.json

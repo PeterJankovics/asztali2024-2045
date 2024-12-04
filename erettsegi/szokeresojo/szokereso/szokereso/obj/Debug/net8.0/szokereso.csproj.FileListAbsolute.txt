@@ -1,0 +1,15 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\bin\Debug\net8.0\szokereso.exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\bin\Debug\net8.0\szokereso.deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\bin\Debug\net8.0\szokereso.runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\bin\Debug\net8.0\szokereso.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\bin\Debug\net8.0\szokereso.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\refint\szokereso.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\szokereso.genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\szokeresojo\szokereso\szokereso\obj\Debug\net8.0\ref\szokereso.dll

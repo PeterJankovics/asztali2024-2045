@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\dolgozat\\dolgozat OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1B5B5E-2BEB-45B7-AFD3-19E0CA82C8FD}|dolgozat OOP\\dolgozat OOP.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\dolgozat\\dolgozat oop\\dolgozat oop\\penztarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1B5B5E-2BEB-45B7-AFD3-19E0CA82C8FD}|dolgozat OOP\\dolgozat OOP.csproj|solutionrelative:dolgozat oop\\penztarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1B5B5E-2BEB-45B7-AFD3-19E0CA82C8FD}|dolgozat OOP\\dolgozat OOP.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\dolgozat\\dolgozat oop\\dolgozat oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1B5B5E-2BEB-45B7-AFD3-19E0CA82C8FD}|dolgozat OOP\\dolgozat OOP.csproj|solutionrelative:dolgozat oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Penztarca.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\dolgozat\\dolgozat OOP\\dolgozat OOP\\Penztarca.cs",
+              "RelativeDocumentMoniker": "dolgozat OOP\\Penztarca.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\dolgozat\\dolgozat OOP\\dolgozat OOP\\Penztarca.cs",
+              "RelativeToolTip": "dolgozat OOP\\Penztarca.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwCYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:59:22.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\dolgozat\\dolgozat OOP\\dolgozat OOP\\Program.cs",
+              "RelativeDocumentMoniker": "dolgozat OOP\\Program.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\dolgozat\\dolgozat OOP\\dolgozat OOP\\Program.cs",
+              "RelativeToolTip": "dolgozat OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:55:18.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

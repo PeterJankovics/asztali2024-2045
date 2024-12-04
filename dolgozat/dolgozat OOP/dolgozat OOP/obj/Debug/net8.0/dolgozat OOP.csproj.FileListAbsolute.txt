@@ -1,0 +1,15 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\bin\Debug\net8.0\dolgozat OOP.exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\bin\Debug\net8.0\dolgozat OOP.deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\bin\Debug\net8.0\dolgozat OOP.runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\bin\Debug\net8.0\dolgozat OOP.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\bin\Debug\net8.0\dolgozat OOP.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\refint\dolgozat OOP.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\dolgozat OOP.genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\dolgozat OOP\dolgozat OOP\obj\Debug\net8.0\ref\dolgozat OOP.dll

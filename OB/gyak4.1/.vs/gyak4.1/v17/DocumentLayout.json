@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\gyak4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892B4AAD-40D8-4895-9646-C76A2EC90F6D}|gyak4.1\\gyak4.1.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\gyak4.1\\gyak4.1\\csoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892B4AAD-40D8-4895-9646-C76A2EC90F6D}|gyak4.1\\gyak4.1.csproj|solutionrelative:gyak4.1\\csoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892B4AAD-40D8-4895-9646-C76A2EC90F6D}|gyak4.1\\gyak4.1.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\gyak4.1\\gyak4.1\\allatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892B4AAD-40D8-4895-9646-C76A2EC90F6D}|gyak4.1\\gyak4.1.csproj|solutionrelative:gyak4.1\\allatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892B4AAD-40D8-4895-9646-C76A2EC90F6D}|gyak4.1\\gyak4.1.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\gyak4.1\\gyak4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892B4AAD-40D8-4895-9646-C76A2EC90F6D}|gyak4.1\\gyak4.1.csproj|solutionrelative:gyak4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Allatok.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\gyak4.1\\gyak4.1\\Allatok.cs",
+              "RelativeDocumentMoniker": "gyak4.1\\Allatok.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\gyak4.1\\gyak4.1\\Allatok.cs",
+              "RelativeToolTip": "gyak4.1\\Allatok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:33:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Csoport.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\gyak4.1\\gyak4.1\\Csoport.cs",
+              "RelativeDocumentMoniker": "gyak4.1\\Csoport.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\gyak4.1\\gyak4.1\\Csoport.cs",
+              "RelativeToolTip": "gyak4.1\\Csoport.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:31:41.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\gyak4.1\\gyak4.1\\Program.cs",
+              "RelativeDocumentMoniker": "gyak4.1\\Program.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\gyak4.1\\gyak4.1\\Program.cs",
+              "RelativeToolTip": "gyak4.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:30:28.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

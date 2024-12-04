@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\obwpf\\gyak2\\gyak2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|solutionrelative:gyak2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\obwpf\\gyak2\\gyak2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|solutionrelative:gyak2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\obwpf\\gyak2\\gyak2\\ujablak.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|solutionrelative:gyak2\\ujablak.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\obwpf\\gyak2\\gyak2\\ujablak.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|solutionrelative:gyak2\\ujablak.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\obwpf\\gyak2\\gyak2\\gyak2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|solutionrelative:gyak2\\gyak2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\ob\\obwpf\\gyak2\\gyak2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB75EA95-2304-43AD-9CF6-DE16FC34FC5B}|gyak2\\gyak2.csproj|solutionrelative:gyak2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "gyak2\\AssemblyInfo.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\AssemblyInfo.cs",
+              "RelativeToolTip": "gyak2\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:04:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gyak2",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\gyak2.csproj",
+              "RelativeDocumentMoniker": "gyak2\\gyak2.csproj",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\gyak2.csproj",
+              "RelativeToolTip": "gyak2\\gyak2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T13:04:08.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ujablak.xaml.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\ujablak.xaml.cs",
+              "RelativeDocumentMoniker": "gyak2\\ujablak.xaml.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\ujablak.xaml.cs",
+              "RelativeToolTip": "gyak2\\ujablak.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:56:44.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ujablak.xaml",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\ujablak.xaml",
+              "RelativeDocumentMoniker": "gyak2\\ujablak.xaml",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\ujablak.xaml",
+              "RelativeToolTip": "gyak2\\ujablak.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:55:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "gyak2\\MainWindow.xaml",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\MainWindow.xaml",
+              "RelativeToolTip": "gyak2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:54:21.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gyak2\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\OB\\obwpf\\gyak2\\gyak2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "gyak2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:54:18.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

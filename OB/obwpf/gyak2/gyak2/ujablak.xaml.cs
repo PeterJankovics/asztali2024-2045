@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace gyak2
+{
+    /// <summary>
+    /// Interaction logic for ujablak.xaml
+    /// </summary>
+    public partial class ujablak : Window
+    {
+        private int megnyitasDB= 0;
+        public ujablak()
+        {
+            InitializeComponent();
+        }
+        public void Show(bool szamol)
+        {
+            megnyitasDB++;
+            label.Content = megnyitasDB.ToString();
+            this.Show();
+
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+        }
+    }
+}

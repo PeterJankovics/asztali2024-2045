@@ -1,0 +1,15 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\bin\Debug\net8.0\gyak.exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\bin\Debug\net8.0\gyak.deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\bin\Debug\net8.0\gyak.runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\bin\Debug\net8.0\gyak.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\bin\Debug\net8.0\gyak.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\refint\gyak.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\gyak.genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\operator\operator2\gyak\gyak\obj\Debug\net8.0\ref\gyak.dll

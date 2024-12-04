@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablakocska.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|solutionrelative:gyak3\\ablakocska.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablakocska.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|solutionrelative:gyak3\\ablakocska.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablak2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|solutionrelative:gyak3\\ablak2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablak2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|solutionrelative:gyak3\\ablak2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|solutionrelative:gyak3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF2CDBA-D01D-4D1D-89B5-357726D981AA}|gyak3\\gyak3.csproj|solutionrelative:gyak3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ablak2.xaml.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablak2.xaml.cs",
+              "RelativeDocumentMoniker": "gyak3\\ablak2.xaml.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablak2.xaml.cs",
+              "RelativeToolTip": "gyak3\\ablak2.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:24:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ablak2.xaml",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablak2.xaml",
+              "RelativeDocumentMoniker": "gyak3\\ablak2.xaml",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablak2.xaml",
+              "RelativeToolTip": "gyak3\\ablak2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:24:07.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ablakocska.xaml.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablakocska.xaml.cs",
+              "RelativeDocumentMoniker": "gyak3\\ablakocska.xaml.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablakocska.xaml.cs",
+              "RelativeToolTip": "gyak3\\ablakocska.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:05:59.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ablakocska.xaml",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablakocska.xaml",
+              "RelativeDocumentMoniker": "gyak3\\ablakocska.xaml",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\ablakocska.xaml",
+              "RelativeToolTip": "gyak3\\ablakocska.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:05:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "gyak3\\MainWindow.xaml",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\MainWindow.xaml",
+              "RelativeToolTip": "gyak3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:03:36.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gyak3\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak3\\gyak3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "gyak3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:03:34.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

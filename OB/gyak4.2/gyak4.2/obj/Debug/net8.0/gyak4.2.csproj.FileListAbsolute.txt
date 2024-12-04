@@ -1,0 +1,15 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\bin\Debug\net8.0\gyak4.2.exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\bin\Debug\net8.0\gyak4.2.deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\bin\Debug\net8.0\gyak4.2.runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\bin\Debug\net8.0\gyak4.2.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\bin\Debug\net8.0\gyak4.2.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\refint\gyak4.2.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\gyak4.2.genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\OB\gyak4.2\gyak4.2\obj\Debug\net8.0\ref\gyak4.2.dll
