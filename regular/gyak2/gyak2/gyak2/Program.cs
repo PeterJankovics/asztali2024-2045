@@ -123,3 +123,34 @@ foreach (KeyValuePair<string, int> elem in kigyujt3)
 {
     Console.WriteLine(elem);
 }
+
+
+
+
+
+Regex minta5 = new Regex(@"[A-Z][a-z]+\/+\S+\u0022");
+
+var talalat5 = minta5.Matches(adatok);
+
+Console.WriteLine(talalat5.Count);
+
+
+Dictionary<string, int> kigyujt3 = new Dictionary<string, int>();
+
+
+foreach (Match elem in talalat5)
+{
+    if (kigyujt3.ContainsKey(elem.Value))
+    {
+        kigyujt3[elem.Value]++;
+    }
+    else
+    {
+        kigyujt3.Add(elem.Value, 1);
+    }
+}
+
+foreach (KeyValuePair<string, int> elem in kigyujt3)
+{
+    Console.WriteLine(elem);
+}

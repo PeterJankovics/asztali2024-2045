@@ -1,0 +1,15 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\bin\Debug\net8.0\doga regular.exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\bin\Debug\net8.0\doga regular.deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\bin\Debug\net8.0\doga regular.runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\bin\Debug\net8.0\doga regular.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\bin\Debug\net8.0\doga regular.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\refint\doga regular.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\doga regular.genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\dolgozat\doga regular\doga regular\obj\Debug\net8.0\ref\doga regular.dll

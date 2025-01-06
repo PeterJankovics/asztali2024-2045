@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\erettsegi\\jeladas\\jeladas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D71F81-83E5-44F6-BBAA-57C83E59EB97}|jeladas\\jeladas.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\erettsegi\\jeladas\\jeladas\\jeladas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D71F81-83E5-44F6-BBAA-57C83E59EB97}|jeladas\\jeladas.csproj|solutionrelative:jeladas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\erettsegi\\jeladas\\jeladas\\jeladas\\Program.cs",
+              "RelativeDocumentMoniker": "jeladas\\Program.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\erettsegi\\jeladas\\jeladas\\jeladas\\Program.cs",
+              "RelativeToolTip": "jeladas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:23:25.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
