@@ -1,0 +1,15 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\bin\Debug\net8.0\fib.exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\bin\Debug\net8.0\fib.deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\bin\Debug\net8.0\fib.runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\bin\Debug\net8.0\fib.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\bin\Debug\net8.0\fib.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\refint\fib.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\fib.genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\rekurziv\gyak2\fib\fib\obj\Debug\net8.0\ref\fib.dll
