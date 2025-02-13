@@ -25,6 +25,18 @@ namespace kep
             return $"RGB({r}, {g}, {b})";
         }
 
+        public bool vilagos()
+        {
+            
+            
+            return osszeg() > 600;
+        }
+
+        public int osszeg()
+        { 
+            return r+g+b; 
+        }
+
     }
 
 }

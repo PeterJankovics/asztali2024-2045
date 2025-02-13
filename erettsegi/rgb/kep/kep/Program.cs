@@ -34,8 +34,17 @@ int sor = int.Parse(Console.ReadLine());
 Console.WriteLine("Oszlop: ");
 int oszlop = int.Parse(Console.ReadLine());
 
-var talalat = pontok.Where(pont => pont.x == oszlop && pont.y == sor);
-Console.WriteLine("A keppont szine {0}", talalat.ToString());
+var talalat = pontok.Where(pont => pont.x == oszlop && pont.y == sor).First();
+
+
+Console.WriteLine("A keppont szine {0}",talalat.rgb);
+
+var vilagosok = pontok.Where(vilagos => vilagos.rgb.vilagos()).ToList();
+Console.WriteLine($"3. Feladat: A vilagosok keppontok szama {vilagosok.Count}");
+
+int legsetettebb = pontok.Min(sotet => sotet.rgb.osszeg());
+
+
 
 
 
