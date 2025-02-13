@@ -19,7 +19,18 @@ namespace park
             veg = int.Parse(vag[1]);
             szin = vag[2];
 
-
         }
+        public bool kapubentvan
+        {
+            get { return kezd > veg; }
+        }
+
+        public bool bennevanez(int sorszam)
+        {
+            return (kezd <= sorszam && sorszam <= veg)
+                || (kapubentvan && (kezd <= sorszam || sorszam <= veg));
+        }
+
+
     }
 }
