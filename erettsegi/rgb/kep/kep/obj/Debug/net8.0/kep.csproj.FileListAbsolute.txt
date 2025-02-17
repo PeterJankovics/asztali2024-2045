@@ -1,0 +1,15 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\bin\Debug\net8.0\kep.exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\bin\Debug\net8.0\kep.deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\bin\Debug\net8.0\kep.runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\bin\Debug\net8.0\kep.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\bin\Debug\net8.0\kep.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\refint\kep.dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\kep.genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\erettsegi\rgb\kep\kep\obj\Debug\net8.0\ref\kep.dll

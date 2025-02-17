@@ -42,9 +42,21 @@ Console.WriteLine("A keppont szine {0}",talalat.rgb);
 var vilagosok = pontok.Where(vilagos => vilagos.rgb.vilagos()).ToList();
 Console.WriteLine($"3. Feladat: A vilagosok keppontok szama {vilagosok.Count}");
 
-int legsetettebb = pontok.Min(sotet => sotet.rgb.osszeg());
+int legsevesebb = pontok.Min(sotet => sotet.rgb.osszeg());
+Console.WriteLine("4. Feladat: A legsotetebb pont RGB osszege: {0}",legsevesebb);
 
+List<string> sotetek = pontok
+    .Where(pont => pont.rgb.osszeg() == legsevesebb) //legsotetebb keppontok
+    .Select(pont =>pont.rgb.ToString()) //csak szinek legyenek
+    .ToList(); //legyen lista a halmazbol
 
+Console.WriteLine("A legsotetebb pixelek szine: ");
 
+Console.WriteLine(string.Join("\n",sotetek));
 
+static bool hatar(int sor, int elteres)
+{
+    
+    return true;
+} 
 
