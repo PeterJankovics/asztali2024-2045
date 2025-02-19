@@ -1,5 +1,6 @@
 ﻿
 using kep;
+using System.Security.Cryptography;
 
 List<Pixel> pontok = new List<Pixel>();
 
@@ -54,9 +55,19 @@ Console.WriteLine("A legsotetebb pixelek szine: ");
 
 Console.WriteLine(string.Join("\n",sotetek));
 
-static bool hatar(int sor, int elteres)
+Console.WriteLine("6. Feladat: ");
+var felhoSorok = pontok.GroupBy(pont => pont.y).Select(csoport => new {csoport.Key, hatar(pontok, csoport.Key, 10));
+
+static bool hatar(List<Pixel> pontok, int sor, int elteres)
 {
-    
-    return true;
-} 
+    var uj = pontok.Where(p => p.y == sor).ToList();
+    List<int> deltaB = new List<int>();
+    for (int i = 0; i < uj.Count - 1; i++)
+    {
+        deltaB.Add(Math.Abs(uj[i].rgb.b - uj[i + 1].rgb.b));
+    }
+
+   return deltaB.Where(b => b >= elteres).ToList().Count > 0;
+}
+
 

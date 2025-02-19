@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c878fdbd4bd84b44475e574298966dd481e319")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0489f1c38b411dd951240946f1cc745b4128f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("kep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
