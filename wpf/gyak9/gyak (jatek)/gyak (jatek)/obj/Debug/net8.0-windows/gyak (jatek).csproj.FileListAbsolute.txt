@@ -1,0 +1,21 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\bin\Debug\net8.0-windows\gyak (jatek).exe
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\bin\Debug\net8.0-windows\gyak (jatek).deps.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\bin\Debug\net8.0-windows\gyak (jatek).runtimeconfig.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\bin\Debug\net8.0-windows\gyak (jatek).dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\bin\Debug\net8.0-windows\gyak (jatek).pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\App.g.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek)_MarkupCompile.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek)_MarkupCompile.lref
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\MainWindow.baml
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).g.resources
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).GeneratedMSBuildEditorConfig.editorconfig
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).AssemblyInfoInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).AssemblyInfo.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).csproj.CoreCompileInputs.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).sourcelink.json
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\refint\gyak (jatek).dll
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).pdb
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\gyak (jatek).genruntimeconfig.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak9\gyak (jatek)\gyak (jatek)\obj\Debug\net8.0-windows\ref\gyak (jatek).dll
