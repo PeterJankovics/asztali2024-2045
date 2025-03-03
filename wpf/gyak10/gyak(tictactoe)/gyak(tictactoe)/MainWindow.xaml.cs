@@ -76,7 +76,29 @@ namespace wpfjatek
                 b7.IsEnabled = false;
                 b8.IsEnabled = false;
             }
-                xo = !xo;
+            xo = !xo;
+        }
+
+
+
+        private void aknakereso(object sender, RoutedEventArgs e)
+        {
+            int x = 9;
+            int y = 9;
+
+            for (int i = 0; i < x; i++)
+            {
+                for (int j = 0; j < y; j++)
+                {
+                    Button gombocska = new Button();
+
+                    gombocska.Name = "gomb"; 
+                }
+            }
+
+
+
+
         }
     }
 }
