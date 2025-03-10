@@ -93,6 +93,13 @@ namespace wpfjatek
                     Button gombocska = new Button();
 
                     gombocska.Name = "gomb"; 
+                    gombocska.Content = i.ToString() + " " +j.ToString();
+
+                    gombocska.Height = 20;
+                    gombocska.Width = 20;
+
+                    asd.Children.Add(gombocska);
+
                 }
             }
 

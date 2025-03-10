@@ -1,0 +1,4 @@
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak10\gyaktictac\gyaktictac\gyaktictac\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak10\gyaktictac\gyaktictac\gyaktictac\obj\Debug\net8.0-windows\App.g.cs
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak10\gyaktictac\gyaktictac\gyaktictac\obj\Debug\net8.0-windows\gyaktictac_MarkupCompile.cache
+H:\progi 24-25\asztali 24-25\asztali2024-2045\wpf\gyak10\gyaktictac\gyaktictac\gyaktictac\obj\Debug\net8.0-windows\gyaktictac_MarkupCompile.lref
