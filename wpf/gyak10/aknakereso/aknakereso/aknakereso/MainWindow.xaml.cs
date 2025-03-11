@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System.Text.Json.Serialization;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -46,7 +47,7 @@ namespace aknakereso
             }
 
             aknaLerak();
-            aknaMutat();
+            //aknaMutat();
             racs.Children.Remove(StartGomb);
             this.SizeToContent = SizeToContent.WidthAndHeight;
 
@@ -77,6 +78,16 @@ namespace aknakereso
                 }
 
             }
+            for (int j = 0; j < aknaHely.GetLength(0); j++)
+            {
+                for (int k = 0; k < aknaHely.GetLength(1); k++)
+                {
+                    if (aknaHely[j, k] != 10)
+                    {
+                        aknaHely[j, k] = aknaSzamol(j, k);
+                    }
+                }
+            }
         }
 
         void aknaMutat()
@@ -90,14 +101,30 @@ namespace aknakereso
             }
         }
 
-        void aknaSzamol(int sor, int oszlop)
+        int aknaSzamol(int sor, int oszlop)
         {
+            int db = 0;
+            if (sor - 1 >= 0 && oszlop - 1 >= 0 && aknaHely[sor - 1, oszlop - 1] == 10) { db++; }
+            if (sor - 1 >= 0 && oszlop >= 0 && aknaHely[sor - 1, oszlop] == 10) { db++; }
+            if (sor - 1 >= 0 && oszlop + 1 < this.oszlop && aknaHely[sor - 1, oszlop + 1] == 10) { db++; }
+
+            if (sor >= 0 && oszlop - 1 >= 0 && aknaHely[sor, oszlop - 1] == 10) { db++; }
+            if (sor >= 0 && oszlop + 1 < this.oszlop && aknaHely[sor, oszlop + 1] == 10) { db++; }
+
+            if (sor +1 < this.sor && oszlop - 1 >= 0 && aknaHely[sor + 1, oszlop - 1] == 10) { db++; }
+            if (sor + 1 < this.sor && oszlop >= 0 && aknaHely[sor + 1, oszlop] == 10) { db++; }
+            if (sor + 1 < this.sor && oszlop + 1 < this.oszlop && aknaHely[sor + 1, oszlop + 1] == 10) { db++; }
+
             
+            return db;
+
         }
+
 
         private void kattintas(object sender, RoutedEventArgs e)
         {
-            
+            Button button = sender as Button;
+            for (int i = 0;
         }
     }
 }
