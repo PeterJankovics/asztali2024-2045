@@ -119,12 +119,43 @@ namespace aknakereso
             return db;
 
         }
+        void helyEllenoriz(int sor, int oszlop)
+        {
+            if (aknaHely[sor, oszlop] == 10)
+            {
+                Image akna = new Image();
 
+                /*
+                BitmapImage kep = new BitmapImage();
+                kep.BeginInit();
+                kep.UriSource = new Uri("/ akna.png");
+                akna.Source = kep;
+
+                */
+
+                akna.Source = new BitmapImage(new Uri("/akna.png", UriKind.Relative));
+                gombok[sor,oszlop].Content = akna;
+            }
+        }
 
         private void kattintas(object sender, RoutedEventArgs e)
         {
             Button button = sender as Button;
-            for (int i = 0;
+
+            for (int i = 0; i < gombok.GetLength(0); i++)
+            {
+                for (int k = 0; k < gombok.GetLength(1); k++)
+                {
+                    if (gombok[i,k] == button)
+                    {
+                            gombok[i, k].Content = aknaHely[i, k];
+                            helyEllenoriz(i, k);
+
+                            k = gombok.GetLength(1);
+                            i = gombok.GetLength(0);
+                    }
+                }
+            }
         }
     }
 }

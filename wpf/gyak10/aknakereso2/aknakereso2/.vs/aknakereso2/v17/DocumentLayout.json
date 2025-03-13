@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak10\\aknakereso2\\aknakereso2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF7EB96-7B70-4D9B-8EBA-D6D421D37C43}|aknakereso2\\aknakereso2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak10\\aknakereso2\\aknakereso2\\aknakereso2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF7EB96-7B70-4D9B-8EBA-D6D421D37C43}|aknakereso2\\aknakereso2.csproj|solutionrelative:aknakereso2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF7EB96-7B70-4D9B-8EBA-D6D421D37C43}|aknakereso2\\aknakereso2.csproj|h:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak10\\aknakereso2\\aknakereso2\\aknakereso2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FF7EB96-7B70-4D9B-8EBA-D6D421D37C43}|aknakereso2\\aknakereso2.csproj|solutionrelative:aknakereso2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak10\\aknakereso2\\aknakereso2\\aknakereso2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "aknakereso2\\MainWindow.xaml",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak10\\aknakereso2\\aknakereso2\\aknakereso2\\MainWindow.xaml",
+              "RelativeToolTip": "aknakereso2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T12:26:43.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak10\\aknakereso2\\aknakereso2\\aknakereso2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "aknakereso2\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\progi 24-25\\asztali 24-25\\asztali2024-2045\\wpf\\gyak10\\aknakereso2\\aknakereso2\\aknakereso2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "aknakereso2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:26:42.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
